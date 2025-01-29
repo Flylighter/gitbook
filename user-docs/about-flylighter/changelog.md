@@ -100,8 +100,3 @@ Three releases today, folks! 0.10.8, 0.10.9, 0.10.10. The latter two mostly cons
 * Fixed issue where block merging function failed when multiple paragraphs were selected in a highlight
 
 </details>
-
-
-
-## Jan 29, 2024
-
