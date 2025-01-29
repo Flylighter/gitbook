@@ -1,6 +1,8 @@
 # Changelog
 
-## Feb 22, 2024
+<details>
+
+<summary>Feb 22, 2024</summary>
 
 Today we've got a fresh new release, bringing our public build up to version 0.10.13!
 
@@ -49,7 +51,13 @@ For our next release, we'll be focusing on adding some **major** new features to
 * Fixed clicking the Data Picker button sometimes opening dropdown menus
 * Fixed the scroll-into-view behavior from scrolling the incorrect view
 
-## Jan 29, 2024
+
+
+</details>
+
+<details>
+
+<summary>01/29/2024 - v0.10.10</summary>
 
 Three releases today, folks! 0.10.8, 0.10.9, 0.10.10. The latter two mostly consist of hotfixes for small bugs that popped up in testing.
 
@@ -90,3 +98,10 @@ Three releases today, folks! 0.10.8, 0.10.9, 0.10.10. The latter two mostly cons
 * Fixed Data Picker allowing for unneeded horizontal scrolling which also caused odd wrapping behavior with long text.
 * Fixed youtube timestamp formatting
 * Fixed issue where block merging function failed when multiple paragraphs were selected in a highlight
+
+</details>
+
+
+
+## Jan 29, 2024
+
