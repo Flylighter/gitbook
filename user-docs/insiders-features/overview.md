@@ -9,7 +9,7 @@ Flylighter Insiders is our Pro plan for early adopters who want to support devel
 * **Early access to new features**
 * **Insiders Discord Channel**
 
-In the future, we will be introducing a more standard Pro Plan without early access to features.
+In the future, we will be introducing a more standard Pro Plan without early access to features or the discord group.
 
 ### Overview Video
 
