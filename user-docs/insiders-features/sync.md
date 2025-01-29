@@ -14,6 +14,8 @@ Sync is automatic. When Flylighter is opened you will get a notification at the 
 
 ### Gotchas
 
-Being that sync only triggers when you open and close Flylighter, rapidly switching between browsers and devices or failing to close an instance of Flylighter can cause conflicts. When conflicts happen, the more recently changed data is always preferred.
+Being that sync only triggers when you open and close Flylighter, rapidly switching between browsers and devices or failing to close an instance of Flylighter can cause conflicts. When conflicts happen, the more recently changed data is always preferred.\
+\
+This can be especially relevant if you are using sidebar mode or the Firefox version, as it's more likely that the sidebar gets left open.
 
 We have plans to improve this very soon, but it's worth being aware of at the present time.
