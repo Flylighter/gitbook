@@ -48,7 +48,7 @@
 
 ## Insiders Features
 
-* [Overview](insiders-features/overview.md)
+* [Insiders Overview](insiders-features/overview.md)
 * [Sync](insiders-features/sync.md)
 * [Persistent Highlights](insiders-features/persistent-highlights.md)
 * [Unlimited Capture History](insiders-features/unlimited-capture-history.md)

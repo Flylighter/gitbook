@@ -1,4 +1,8 @@
-# Overview
+---
+icon: sparkle
+---
+
+# Insiders Overview
 
 Flylighter Insiders is our Pro plan for early adopters who want to support development and tryout the latest features. These are the features you can currently expect when joining Insiders:
 
