@@ -1,3 +1,7 @@
+---
+icon: user
+---
+
 # Managing Accounts
 
 {% hint style="info" %}
