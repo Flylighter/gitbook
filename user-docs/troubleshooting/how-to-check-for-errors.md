@@ -1,3 +1,7 @@
+---
+icon: circle-exclamation
+---
+
 # How to Check for Errors
 
 We do our best to ship quality software, but bugs happen! When something weird happens, you can [let us know in our Discord](https://discord.gg/tptj5ZVzyc).
