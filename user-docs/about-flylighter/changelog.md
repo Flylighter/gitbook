@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Changelog
 
 <details>
@@ -14,9 +18,9 @@ We've also squashed a whole lot of bugs. Ever see the movie _Constantine_ with K
 
 Check out the full changelog below if you're curious. You may also want to [check that you have the latest version of Flylighter](../in-depth/updating-flylighter-manually.md) in your browser.
 
-For our next release, we'll be focusing on adding some **major** new features to Flylighter – including Flylighter accounts, which will lay the foundation for syncing Flows and Capture History between devices. Can't wait to share more soon!
+For our next release, we'll be focusing on adding some **major** new features to Flylighter – including Flylighter accounts, which will lay the foundation for syncing Flows and Capture History between devices. Can't wait to share more soon!
 
-#### Changes
+**Changes**
 
 * Improved loading times
 * Added a `?` menu item for quick access to Help Docs, app version, and more
@@ -30,7 +34,7 @@ For our next release, we'll be focusing on adding some **major** new features to
 * Select dropdowns now scroll into view
 * Button-type database properties are no longer visible (we can’t interact with them via the Notion API yet anyway)
 
-#### Fixes
+**Fixes**
 
 * Fixed being unable to scroll to the bottom of the Data Picker on a property
 * Fixed number properties having unintended limitations
@@ -51,8 +55,6 @@ For our next release, we'll be focusing on adding some **major** new features to
 * Fixed clicking the Data Picker button sometimes opening dropdown menus
 * Fixed the scroll-into-view behavior from scrolling the incorrect view
 
-
-
 </details>
 
 <details>
@@ -61,7 +63,7 @@ For our next release, we'll be focusing on adding some **major** new features to
 
 Three releases today, folks! 0.10.8, 0.10.9, 0.10.10. The latter two mostly consist of hotfixes for small bugs that popped up in testing.
 
-#### Changes
+**Changes**
 
 * Improved ability to find article / full page
 * When clicking the Flow name in the Flow Editor, the text is automatically selected
@@ -75,7 +77,7 @@ Three releases today, folks! 0.10.8, 0.10.9, 0.10.10. The latter two mostly cons
 * Disabled destination and page dropdowns when using append capture
 * Added hover effect on Folder icon to improve clarity
 
-#### Fixes
+**Fixes**
 
 * Fixed article / full page capture failures due to length
 * Fixed append capture causing a crash

@@ -1,3 +1,7 @@
+---
+icon: clock-rotate-left
+---
+
 # Unlimited Capture History
 
 {% hint style="warning" %}

@@ -1,3 +1,7 @@
+---
+icon: repeat
+---
+
 # Sync
 
 {% hint style="warning" %}

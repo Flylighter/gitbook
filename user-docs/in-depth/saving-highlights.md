@@ -1,3 +1,7 @@
+---
+icon: highlighter-line
+---
+
 # Saving Highlights
 
 {% hint style="info" %}

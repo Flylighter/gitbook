@@ -25,7 +25,14 @@
 * [Take Notes on YouTube Videos](use-cases/take-notes-on-youtube-videos.md)
 * [Save Recipes to Notion](use-cases/save-recipes-to-notion.md)
 * [Highlight & Annotate Articles](use-cases/highlight-and-annotate-articles.md)
-* [Create a Swipe File](use-cases/create-a-swipe-file.md)
+
+## Settings
+
+* [Flows](settings/flows.md)
+* [Appearance](settings/appearance.md)
+* [Shortcuts](settings/shortcuts.md)
+* [Connections](settings/connections.md)
+* [Privacy & Security](settings/privacy-and-security.md)
 
 ## In Depth
 
@@ -33,8 +40,7 @@
 * [Page Content Editor](in-depth/page-content-editor.md)
 * [Saving Highlights](in-depth/saving-highlights.md)
 * [Element Selector](in-depth/element-selector.md)
-* [Advanced Data Plugin](in-depth/advanced-data-plugin.md)
-* [Advanced Settings](in-depth/advanced-settings.md)
+* [Custom CSS Selectors](in-depth/advanced-data-plugin.md)
 * [Export and Import Your Data](in-depth/export-and-import-your-data.md)
 * [Updating Flylighter Manually](in-depth/updating-flylighter-manually.md)
 * [Permissions](in-depth/permissions.md)

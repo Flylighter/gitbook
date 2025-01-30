@@ -1,3 +1,7 @@
+---
+icon: question
+---
+
 # What is Flylighter?
 
 Flylighter is a **fast, hyper-flexible web clipper for Notion.**

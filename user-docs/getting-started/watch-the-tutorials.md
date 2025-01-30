@@ -1,3 +1,7 @@
+---
+icon: person-chalkboard
+---
+
 # Watch the Tutorials
 
 While we complete our documentation, feel free to watch through these videos for a comprehensive look at how to set up and use Flylighter.

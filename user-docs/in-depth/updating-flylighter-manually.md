@@ -1,3 +1,7 @@
+---
+icon: arrows-rotate
+---
+
 # Updating Flylighter Manually
 
 Browser extensions should usually update automatically when you restart your web browser – i.e. close and re-open it.

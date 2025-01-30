@@ -1,3 +1,7 @@
+---
+icon: sliders-simple
+---
+
 # Capture Modes
 
 {% hint style="info" %}

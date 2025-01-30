@@ -4,20 +4,23 @@
 _This page is under construction, and may have screenshots from a previous version of our UI._
 {% endhint %}
 
-You can manage your connected accounts in the main extension settings under the accounts tab.
+You can manage your connected accounts in the main extension settings under the "Connections".
 
-<figure><img src="../.gitbook/assets/Frame 74.png" alt=""><figcaption><p>The account management settings page.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-30 at 09.07.22 (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+The Free plan is limited to adding one connection. Upgrading to [Insiders](../insiders-features/overview.md) gives you access to unlimited connections.
+{% endhint %}
 
 ## Adding Accounts
 
-To add an account (or Notion Workspace) click the **+ Account** button. This will take you to a login flow similar to when you initially set up the extension.
+To add an account (or Notion Workspace) click the **+ Refrsh/add a connection** button. This will take you to a login flow similar to when you initially set up the extension.
 
 {% hint style="info" %}
 Adding and account or workspace that is already connected will update the page permissions for that account.
 {% endhint %}
 
-You can delete an account by clicking the trash icon next to an account.
+You can delete an account by clicking the **Remove Connection** button.
 
-## Default Account
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-30 at 09.10.34.png" alt=""><figcaption></figcaption></figure>
 
-The **Default Account** option sets the account that is automatically selected when creating a new **Flow**.

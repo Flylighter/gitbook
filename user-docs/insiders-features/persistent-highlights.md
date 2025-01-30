@@ -1,3 +1,7 @@
+---
+icon: highlighter-line
+---
+
 # Persistent Highlights
 
 {% hint style="warning" %}

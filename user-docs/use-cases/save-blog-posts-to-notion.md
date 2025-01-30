@@ -2,6 +2,7 @@
 description: >-
   Learn how to automatically save blog posts and full article content to Notion
   using Flylighter.
+icon: square-rss
 ---
 
 # Save Blog Posts to Notion

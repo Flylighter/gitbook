@@ -1,3 +1,7 @@
+---
+icon: file-pen
+---
+
 # Page Content Editor
 
 {% hint style="info" %}

@@ -1,3 +1,7 @@
+---
+icon: circle-question
+---
+
 # FAQ
 
 ## How is Flylighter different from other Notion web clippers?

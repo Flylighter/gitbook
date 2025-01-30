@@ -1,4 +1,8 @@
-# Advanced Data Plugin
+---
+icon: code
+---
+
+# Custom CSS Selectors
 
 {% hint style="info" %}
 _This page is under construction, and may have screenshots from a previous version of our UI._

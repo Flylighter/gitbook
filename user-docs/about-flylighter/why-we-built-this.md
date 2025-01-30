@@ -1,3 +1,7 @@
+---
+icon: hammer
+---
+
 # Why We Built This
 
 We built Flylighter because we wanted better tools for **capturing ideas, resources, and new information.**

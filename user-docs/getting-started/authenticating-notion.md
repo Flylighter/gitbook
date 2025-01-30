@@ -1,3 +1,7 @@
+---
+icon: key
+---
+
 # Authenticating Notion
 
 Whether you chose to do the interactive tutorial, or skipped it, the next step will be to add a Notion workspace.

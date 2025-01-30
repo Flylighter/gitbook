@@ -1,3 +1,7 @@
+---
+icon: users
+---
+
 # Multiple Workspaces (Accounts)
 
 {% hint style="warning" %}

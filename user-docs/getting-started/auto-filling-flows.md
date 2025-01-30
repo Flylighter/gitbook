@@ -1,3 +1,7 @@
+---
+icon: wand-sparkles
+---
+
 # Auto-Filling Flows
 
 {% hint style="info" %}

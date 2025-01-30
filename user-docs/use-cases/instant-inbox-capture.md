@@ -1,3 +1,7 @@
+---
+icon: bolt
+---
+
 # Instant Inbox Capture
 
 If you're in the habit of opening a bazillion browser tabs – and then being afraid to close them, lest you forget them – this use case is for you.

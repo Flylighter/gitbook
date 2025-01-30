@@ -1,3 +1,7 @@
+---
+icon: arrow-down-to-line
+---
+
 # Install Flylighter
 
 Flylighter is a browser extension [available on the Chrome Web Store](https://chromewebstore.google.com/u/6/detail/flylighter/dlmdffmkcggiicjbfnjcnikkpahgplmd).&#x20;

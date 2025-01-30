@@ -1,3 +1,7 @@
+---
+icon: up-to-dotted-line
+---
+
 # Export and Import Your Data
 
 At any time, you can export your user data from Flylighter and save it to your computer. You might want to do this on order to port your data to another browser or device, or just to back it up.

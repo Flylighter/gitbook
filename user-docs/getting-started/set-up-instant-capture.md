@@ -1,3 +1,7 @@
+---
+icon: bolt
+---
+
 # Set Up Instant Capture
 
 The Instant Capture setting allows you to execute Flows in two clicks:

@@ -1,3 +1,7 @@
+---
+icon: paper-plane-top
+---
+
 # Create Your First Flow
 
 Say you stumble upon a really cool web page about [accelarated learning](https://fs.blog/learning/), and you'd like to save it to Notion so you don't lose it.

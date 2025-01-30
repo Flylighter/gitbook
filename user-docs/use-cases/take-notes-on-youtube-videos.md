@@ -1,5 +1,6 @@
 ---
 description: Learn how to capture time-stamped notes on YouTube videos in Flylighter.
+icon: youtube
 ---
 
 # Take Notes on YouTube Videos

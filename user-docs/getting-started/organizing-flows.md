@@ -1,3 +1,7 @@
+---
+icon: folder-tree
+---
+
 # Organizing Flows
 
 {% hint style="info" %}
