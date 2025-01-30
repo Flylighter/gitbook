@@ -17,6 +17,7 @@
 * [Auto-Filling Flows](getting-started/auto-filling-flows.md)
 * [Organizing Flows](getting-started/organizing-flows.md)
 * [Managing Accounts](getting-started/managing-accounts.md)
+* [Capture History](getting-started/capture-history.md)
 
 ## Use Cases
 
