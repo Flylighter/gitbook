@@ -4,8 +4,10 @@ icon: wand-sparkles
 
 # Auto-Filling Flows
 
-{% hint style="info" %}
-_This page is under construction, and may have screenshots from a previous version of our UI._
+
+
+{% hint style="warning" %}
+This page is incomplete, out of date, or otherwise under construction.
 {% endhint %}
 
 Most properties in a Flow can be **auto-filled** with data, which makes captures even faster. Some properties – like Title, URL, Page Icon, and Page Cover – automatically set themselves to auto-fill when you choose an option from the Data Picker.

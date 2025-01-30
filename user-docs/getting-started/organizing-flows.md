@@ -4,8 +4,10 @@ icon: folder-tree
 
 # Organizing Flows
 
-{% hint style="info" %}
-_This page is under construction, and may have screenshots from a previous version of our UI._
+
+
+{% hint style="warning" %}
+This page is incomplete, out of date, or otherwise under construction.
 {% endhint %}
 
 ## Folders, Colors, & Icons
