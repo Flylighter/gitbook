@@ -10,6 +10,7 @@
 ## Getting Started
 
 * [Install Flylighter](getting-started/install-flylighter.md)
+* [Authenticating Notion](getting-started/authenticating-notion.md)
 * [Watch the Tutorials](getting-started/watch-the-tutorials.md)
 * [Create Your First Flow](getting-started/create-your-first-flow.md)
 * [Set Up Instant Capture](getting-started/set-up-instant-capture.md)
