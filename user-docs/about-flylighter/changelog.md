@@ -14,7 +14,7 @@ This set of releases mainly focuses on stability, improved loading times, and ad
 
 You'll now see embedded YouTube videos as available elements in the Web Data plugin, and our article parser has received a lot of love under the hood as well.
 
-We've also squashed a whole lot of bugs. Ever see the movie _Constantine_ with Keanu Reeves? That many bugs.
+We've also squashed a lot of bugs. Ever see the movie _Constantine_ with Keanu Reeves? That many bugs.
 
 Check out the full changelog below if you're curious. You may also want to [check that you have the latest version of Flylighter](../in-depth/updating-flylighter-manually.md) in your browser.
 
@@ -24,7 +24,7 @@ For our next release, we'll be focusing on adding some **major** new features to
 
 * Improved loading times
 * Added a `?` menu item for quick access to Help Docs, app version, and more
-* Added Youtube Video embed to data picker in the content editor
+* Added YouTube Video embed to data picker in the content editor
 * Made improvements to article parsing
 * Added letter icons for Notion workspaces without an icon set
 * When duplicating a Flow (copy) is now appended to the name
@@ -70,7 +70,7 @@ Three releases today, folks! 0.10.8, 0.10.9, 0.10.10. The latter two mostly cons
 * Changing the Flow name in the Flow Editor now also saves when clicking away, not just on enter
 * Renaming a Flow from the Flow List now also saves when clicking away, not just on enter
 * Copy data button in Data Picker is no longer transparent
-* Added a colored border to the Data Picker button on Properties to indicate if it is auto-filling
+* Added a colored border to the Data Picker button on Properties to indicate if it is autofilling
 * Added a proper placeholder for the page selection dropdown
 * Added detection for Author images and filtered them from article capture.
 * Hid the Flow settings button in the content editor when using append capture
@@ -94,11 +94,11 @@ Three releases today, folks! 0.10.8, 0.10.9, 0.10.10. The latter two mostly cons
 * Fixed back button behavior in the Flow Editor when in page capture mode
 * Fixed last segment of text in each paragraph of an article capture being duplicated
 * Fixed emoji workspace icon on Settings > Flows
-* Fixed issue causing context menus to be cutoff in the Flow list
+* Fixed issue causing context menus to be cut off in the Flow list
 * Fixed selected dropdown options not using ellipsis overflow correctly
 * Fixed and issue with highlights with only 1 piece of data causing Data Picker error
 * Fixed Data Picker allowing for unneeded horizontal scrolling which also caused odd wrapping behavior with long text.
-* Fixed youtube timestamp formatting
+* Fixed YouTube timestamp formatting
 * Fixed issue where block merging function failed when multiple paragraphs were selected in a highlight
 
 </details>

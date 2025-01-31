@@ -12,7 +12,7 @@ Flylighter is focused on speed, flexibility, and security.
 
 You can configure Flows more quickly in Flylighter than you can build forms in other web clippers because we don't separate Flow configuration from Flow use.
 
-This means you can build and change a Flow on the fly – you can set properties to auto-fill every time you capture, but you can also add custom data on individual captures.
+This means you can build and change a Flow on the fly – you can set properties to autofill every time you capture, but you can also add custom data on individual captures.
 
 Additionally, you can set Flows to **Instant Capture** to run them in one click, and define **custom keyboard shortcuts** to run Flows right from your keyboard.
 
@@ -43,7 +43,7 @@ While this does allow them to get around certain limitations (the Notion API doe
 
 ## Is Flylighter secure?
 
-Yes. Flylighter runs locally in your browser, and currently only sends data outside of your browser's local storage to your connected Notion account(s).
+Yes. Flylighter runs locally in your browser, and currently only sends data outside your browser's local storage to your connected Notion account(s).
 
 When we launch Flow Syncing, we'll sync Flow settings and certain details from your Capture History (web page title, URL, and Notion page ID) in order to allow you to see your history across devices and append new highlights to previous captures.
 
