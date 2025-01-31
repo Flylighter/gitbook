@@ -18,7 +18,7 @@ The Free plan is limited to adding one connection. Upgrading to [Insiders](../in
 
 ## Adding Accounts
 
-To add an account (or Notion Workspace) click the **+ Refrsh/add a connection** button. This will take you to a login flow similar to when you initially set up the extension.
+To add an account (or Notion Workspace) click the **+ Refresh/add a connection** button. This will take you to a login flow similar to when you initially set up the extension.
 
 {% hint style="info" %}
 Adding and account or workspace that is already connected will update the page permissions for that account.
@@ -27,4 +27,12 @@ Adding and account or workspace that is already connected will update the page p
 You can delete an account by clicking the **Remove Connection** button.
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-01-30 at 09.10.34.png" alt=""><figcaption></figcaption></figure>
+
+### Updating Permissions&#x20;
+
+#### Notion
+
+Permissions can be updated on a page-by-page basis within Notion. In your Workspace settings, go to the **My connections** tab, find the three-dot menu for Flylighter, and under **Access selected pages** check which pages you'd like to allow Flylighter to access.
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-31 at 09.28.06 (2).png" alt=""><figcaption></figcaption></figure>
 
