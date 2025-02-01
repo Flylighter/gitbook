@@ -33,7 +33,7 @@ Here's how to check.
 1. Open Flylighter and click the `?` icon.
 2. Check the version number listed in the top right corner of the What's New card.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Finally, you can check to see if the current version listed in the Web Store matches the version you have.
 
