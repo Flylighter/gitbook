@@ -4,10 +4,8 @@ icon: person-chalkboard
 
 # Watch the Tutorials
 
-While we complete our documentation, feel free to watch through these videos for a comprehensive look at how to set up and use Flylighter.
-
-{% hint style="info" %}
-**Note:** The references to Circle are for a previous closed beta. We're moving to a community Discord that will open up soon – in the mean time, you can [provide feedback on Flylighter via this form!](https://feedback.flylighter.com)
+{% hint style="warning" %}
+These tutorials are out of date, bear with us while we update the documentation!
 {% endhint %}
 
 ## 5-Minute Quick Start Guide
