@@ -27,10 +27,6 @@ A few Notion property types automatically set themselves to auto-fill with dynam
 
 For any other property type (e.g. Select, Number, Relation, etc.), you can set the auto-fill&#x20;
 
-##
-
-##
-
 ## Data Items & Input Items
 
 To understand how Flows save data for auto-filling, we'll make a distinction between two types of data:
