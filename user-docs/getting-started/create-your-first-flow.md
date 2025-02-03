@@ -32,23 +32,42 @@ _If you're already using_ [_Ultimate Brain_](https://thomasjfrank.com/brain/)_, 
 
 ## Create Your First Flow
 
-Click **Create New Flow** or hit **New** → **New Flow** to create your first Flow. You can also hit **New** → **New Folder** if you'd like to create a folder for it.
+Click **+ Flow** to create your first Flow. You can also hit **+ Folder** if you'd like to create a folder for it first.
 
-<figure><img src="../.gitbook/assets/PixelSnap 2024-02-11 at 12.08.30@2x.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-02-03 at 08.31.45.png" alt=""><figcaption></figcaption></figure>
 
-Give your Flow a name, as well as an icon if you wish. The **book** icon is a good choice. But you do you.
+A Flow creation modal will appear, here you can set the following:
+
+1. Set an Icon
+2. Name the Flow
+3. Set the Flow type (leave this as destination for now. View [Capture Modes](../in-depth/capture-modes.md) for more info.)
+4. Choose the folder. If no other Folders exist, the only option will be **No Folder.**
+
+Give your Flow a name, as well as an icon if you wish. The **book** icon is a good choice. But you do you. Click **Create Flow** when you are done.
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-02-03 at 08.34.02.png" alt=""><figcaption><p>Flow creation modal</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-02-03 at 08.39.24.png" alt=""><figcaption><p>Your first Flow!</p></figcaption></figure>
 
 ### Choose a Database
 
-Next, hit **Select an Option** to choose a Notion database. This will be your capture destination.
+Next, choose a Notion database. This will be your capture destination.
 
-<figure><img src="../.gitbook/assets/PixelSnap 2024-02-11 at 12.11.28@2x.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-02-03 at 08.40.34.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Remember that Flylighter needs access to a Notion database before you'll see it in the list of choices. If the database you want doesn't show up, you can manually give Flylighter permission to access it by going to the database in Notion, hitting the ••• menu in the top-right corner, and then clicking **Flylighter** in the **Add Connections** sub-menu.
 {% endhint %}
 
-Once you've chosen your database, all of the database's visible properties will show up in the Flow editor.
+Once you've chosen your database, all of the database's visible properties will show up in the Flow editor. Let's do a brief overview of the Flow Editor:
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-02-03 at 08.45.02.png" alt=""><figcaption><p>The Flow Editor</p></figcaption></figure>
+
+1. **Page Icon -** This is the page icon to be captured, by default it's automatically filled with the side icon. You can click it to open the data picker and choose a different icon.
+2. **Page Cover Image** - Same as the page icon, but page cover image instead.
+3. **Currently selected Database/Destination**
+4. **A database property -** Shows the property name, and the value to be captured.
+5. **The Data Picker & Configuration button** - Well go over this more in depth soon.
 
 ### Add Web Data
 
@@ -60,9 +79,11 @@ When you're capturing to a database, you can set three types of values in Notion
 
 Let's start by adding some **web data** to your first capture. Typically, you'll want to use web data – usually the web page's **title** – when capturing that page.
 
-On each property, you can click the **globe icon** to open up the **Data Picker.**
+By default, Flylighter will autofill the icon, cover image, title, and url.&#x20;
 
-<figure><img src="../.gitbook/assets/PixelSnap 2024-02-11 at 12.15.41@2x.jpg" alt=""><figcaption></figcaption></figure>
+On each property, you can click the **`⋮⋮`** **grab handle icon** to open up the **Data Picker.**
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-02-03 at 08.52.49.png" alt=""><figcaption></figcaption></figure>
 
 The Data Picker is a powerful tool that lets you fill the selected property with web data from the current page. _(Technically, it's a suite of **plugins** – but we'll dig into those later!)_
 
@@ -72,7 +93,7 @@ Next, pick the value in the **Title** section. This should be the title of the w
 
 Note how the icon lets you know that value has been **Saved.** It's now set to auto-fill, which means it'll automatically grab the title of the web page the next time you run this Flow.
 
-Also note the blue border on the globe icon; this lets you know that the property has an auto-fill setting applied.
+Also note the blue border on the **`⋮⋮`** icon; this lets you know that the property has an auto-fill setting applied.
 
 <figure><img src="../.gitbook/assets/PixelSnap 2024-02-11 at 20.43.34@2x.jpg" alt=""><figcaption></figcaption></figure>
 
