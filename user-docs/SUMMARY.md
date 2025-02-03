@@ -5,7 +5,8 @@
 * [What is Flylighter?](README.md)
 * [Why We Built This](about-flylighter/why-we-built-this.md)
 * [FAQ](about-flylighter/faq.md)
-* [Changelog](about-flylighter/changelog.md)
+* [What's new?](about-flylighter/whats-new.md)
+* [Changelogs](about-flylighter/changelog.md)
 
 ## Getting Started
 
