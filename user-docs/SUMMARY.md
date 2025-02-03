@@ -19,22 +19,6 @@
 * [Managing Accounts](getting-started/managing-accounts.md)
 * [Capture History](getting-started/capture-history.md)
 
-## Use Cases
-
-* [Instant Inbox Capture](use-cases/instant-inbox-capture.md)
-* [Save Blog Posts to Notion](use-cases/save-blog-posts-to-notion.md)
-* [Take Notes on YouTube Videos](use-cases/take-notes-on-youtube-videos.md)
-* [Save Recipes to Notion](use-cases/save-recipes-to-notion.md)
-* [Highlight & Annotate Articles](use-cases/highlight-and-annotate-articles.md)
-
-## Settings
-
-* [Flows](settings/flows.md)
-* [Appearance](settings/appearance.md)
-* [Shortcuts](settings/shortcuts.md)
-* [Connections](settings/connections.md)
-* [Privacy & Security](settings/privacy-and-security.md)
-
 ## In Depth
 
 * [Capture Modes](in-depth/capture-modes.md)
@@ -47,6 +31,14 @@
 * [Permissions](in-depth/permissions.md)
 * [Flow Settings](in-depth/flow-settings.md)
 
+## Settings
+
+* [Flows](settings/flows.md)
+* [Appearance](settings/appearance.md)
+* [Shortcuts](settings/shortcuts.md)
+* [Connections](settings/connections.md)
+* [Privacy & Security](settings/privacy-and-security.md)
+
 ## Insiders Features
 
 * [Insiders Overview](insiders-features/overview.md)
@@ -54,6 +46,14 @@
 * [Persistent Highlights](insiders-features/persistent-highlights.md)
 * [Unlimited Capture History](insiders-features/unlimited-capture-history.md)
 * [Multiple Workspaces (Accounts)](insiders-features/multiple-workspaces-accounts.md)
+
+## Use Cases
+
+* [Instant Inbox Capture](use-cases/instant-inbox-capture.md)
+* [Save Blog Posts to Notion](use-cases/save-blog-posts-to-notion.md)
+* [Take Notes on YouTube Videos](use-cases/take-notes-on-youtube-videos.md)
+* [Save Recipes to Notion](use-cases/save-recipes-to-notion.md)
+* [Highlight & Annotate Articles](use-cases/highlight-and-annotate-articles.md)
 
 ## Troubleshooting
 
