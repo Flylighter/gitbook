@@ -58,6 +58,7 @@
 
 ## Troubleshooting
 
+* [Resetting the Extension](troubleshooting/resetting-the-extension.md)
 * [How to Check for Errors](troubleshooting/how-to-check-for-errors.md)
 * [Common Issues](troubleshooting/common-issues/README.md)
   * [No Destinations Found](troubleshooting/common-issues/no-destinations-found.md)
