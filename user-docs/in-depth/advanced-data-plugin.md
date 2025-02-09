@@ -10,6 +10,8 @@ _This page is under construction, and may have screenshots from a previous versi
 
 The Advanced Data Plugin allows you to use a combination of CSS selectors and regular expressions to extract content from a web page in a predictable and repeatable way.
 
+***
+
 ## Using Advanced Data
 
 Advanced Data items can be found in the data picker dropdown.  Here you can pick selectors that are marked for all sites, and those that are for the current host name. These behave the same as the Basic Data items and can be saved for auto-fill.
