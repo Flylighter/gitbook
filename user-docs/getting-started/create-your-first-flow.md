@@ -68,7 +68,7 @@ Once you've chosen your database, all of the database's visible properties will 
 3. **Currently selected Database/Destination**
 4. **A database property -** Shows the property name, and the value to be captured.
 5. **The Data Picker & Configuration button** * Well go over this more in depth soon.
-
+6. **The Capture Button** - This will capture the current page to the database.
 ### Add Web Data
 
 When you're capturing to a database, you can set three types of values in Notion database properties:
@@ -95,7 +95,7 @@ Note how the icon lets you know that value has been **Saved.** It's now set to a
 
 Also note the blue border on the **`⋮⋮`** icon; this lets you know that the property has an auto-fill setting applied.
 
-<figure><img src="../.gitbook/assets/PixelSnap 2024-02-11 at 20.43.34@2x.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/border-info.png" alt=""><figcaption></figcaption></figure>
 
 If your Notion database also has a URL property, I'd recommend doing the same for it – that way, your Flow will auto-fill the URL of the web page you're capturing.
 
@@ -113,13 +113,13 @@ You can also create new options in these properties right from Flylighter! Just 
 **Note:** For some property type, like Select and Multi-Select, your database needs to be unlocked before you'll be able to create _new_ options. [Learn how to unlock a Notion database here](https://support.thomasjfrank.com/customizing-your-templates/78ZReSibJg7dV9R7ouqQrS/how-to-unlock-notion-databases/muCk11PNirQRjH5xaQRs9V).
 {% endhint %}
 
-Here, I'm selecting the Learning page inside a Relation property called Area/Resource, which I use effectively as a tagging system. _These terms come from_ [_the PARA Method_](https://thomasjfrank.com/productivity/how-to-easily-organize-your-life-with-the-para-method)_._
+Here, I'm selecting the *Growth* page inside a Relation property called Area, which I use effectively as a tagging system. _These terms come from_ [_the PARA Method_](https://thomasjfrank.com/productivity/how-to-easily-organize-your-life-with-the-para-method)_._
 
-<figure><img src="../.gitbook/assets/PixelSnap 2024-02-11 at 20.48.32@2x.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/prop-setup.png" alt=""><figcaption></figcaption></figure>
 
-You can also see that I've opened up the Data Picker and set this property to auto-fill to the **Exact Value** I've set. Anytime I run this Flow in the future, my Learning page will be set in this Relation property.
+You can also see the option to set this property to **Auto fill exact value**. Anytime I run this Flow in the future, my Growth page will be set in this Relation property.
 
-Finally, note how I've also added the **Web Clip** option in **Type**, which is a Select-type property.
+Finally, note how I've also added the **Article** option in **Type**, which is a Select-type property.
 
 Other property types will give you other options. In Text properties, you can simply type whatever you want (or use the Data Picker to grab dynamic data). Checkbox properties have a toggle you can set.
 
@@ -127,9 +127,9 @@ Other property types will give you other options. In Text properties, you can si
 
 You can also set the Cover Image and Icon in the Notion page that will be created from your Flow.
 
-<figure><img src="../.gitbook/assets/PixelSnap 2024-02-11 at 20.59.38@2x.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/icon-cover.png" alt=""><figcaption></figcaption></figure>
 
-Near the top of the Flow builder, note the Icon and Cover options. These work similarly to the Notion properties below them; click them to open the Data Picker, and you'll see several options:
+Next to the Destination Database, you'll see the Icon and Cover options with previews. These work similarly to the Notion properties below them; click them to open the Data Picker, and you'll see several options:
 
 * **Icon:** In the Web Data plugin, you can choose the site's favicon. You can also use the arrows to navigate over to the Feather Icon and Emoji sections if you prefer those instead.
 * **Cover:** If the page contains a featured image, cover image, or social media image, you'll see it here.
