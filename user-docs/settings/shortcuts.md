@@ -2,11 +2,11 @@
 icon: keyboard
 ---
 
-# Keyboard Shortcuts
+# Shortcuts
 
 Keyboard shortcuts are a way to trigger actions or open Flows from your keyboard. All shortcuts are performed by holding the modifiers `Control+Shift` (Mac) or `Alt+Shift` (Windows). You can set any alphanumeric key as a shortcut.
 
-<figure><img src="../.gitbook/assets/settings-shortcuts.png"><figcaption><p>The Shortcuts Settings Tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/settings-shortcuts.png" alt=""><figcaption><p>The Shortcuts Settings Tab</p></figcaption></figure>
 
 #### 1. **The Shortcut Action or Flow**
 
@@ -22,9 +22,10 @@ The key that will be used to trigger the shortcut.
 
 ### Adding a Shortcut
 
-<figure><img src="../.gitbook/assets/add-shortcut.png"><figcaption><p>caption</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/add-shortcut.png" alt=""><figcaption><p>caption</p></figcaption></figure>
 
-1. Click the **+ Add Shortcut** button.
-2. Select the action or Flow that will be triggered when the shortcut is used.
-3. Select the key that will be used to trigger the shortcut.
-4. Click **Save**.
+Click the **+ Add Shortcut** button.
+
+1. Select the action or Flow that will be triggered when the shortcut is used.
+2. Select the key that will be used to trigger the shortcut.
+3. Click **Save**.
