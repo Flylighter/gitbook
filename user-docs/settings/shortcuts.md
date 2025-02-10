@@ -2,5 +2,5 @@
 icon: keyboard
 ---
 
-# Shortcuts
+# Keyboard Shortcuts
 

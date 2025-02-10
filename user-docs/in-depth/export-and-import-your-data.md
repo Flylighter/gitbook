@@ -18,7 +18,7 @@ Your user data file contains everything needed to restore Flylighter to its curr
 
 Note that Flylighter is a **capture** tool, so we don't store the content of your captures beyond the rough details needed to maintain your Capture History (page title, URL, Notion page URL, capture time, and the Flow you used).
 
-The rest of what you captured – e.g. a full article or set of highlights - is safe in the destination you configured in your Flow. That's where it belongs; we don't want to keep or store your data!
+The rest of what you captured – e.g. a full article or set of highlights * is safe in the destination you configured in your Flow. That's where it belongs; we don't want to keep or store your data!
 
 ## Export Your Data
 

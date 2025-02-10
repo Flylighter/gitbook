@@ -1,22 +1,22 @@
 ---
-icon: code-branch
+icon: sparkle
 ---
 
-# Changelogs
+# What's new?
 
 ## January 28, 2025
 
 <span style="color:rgb(120, 120, 120)">*01/28/2025 - v0.11.22*</span>
+
+Just a couple bug fixes.
 
 <details>
   <summary><b>Fixes</b></summary>
 
   * Fixed Flow search
   * Potential fix for first Flows created after installing would cause a blank screen when selected.
-</details>
-
-<details>
-  <summary><b>Insiders</b></summary>
+  
+**Insiders**
 
 * Fixed an issue where multiple installations of Flylighter being setup prior to first sync only the first opened would sync, and the rest would be overwritten.
 </details>
@@ -26,6 +26,8 @@ icon: code-branch
 ## January 25, 2025
 
 <span style="color:rgb(120, 120, 120)">_01/25/2025 - v0.11.21_</span>
+
+Updated the CSS Selector tabs appearance to match the rest of the data picker & a few other fixes.
 
 <details>
   <summary><b>Changes</b></summary>
@@ -65,13 +67,14 @@ Hey everyone! Have a very big update for you today. The changes, fixes, and impr
 * You will be limited to single Workspace/Account on the free plan. This will not be applied retroactively though, so any existing connections will continue to work.
 * Capture History will be limited to viewing the ten most recent, and append capture limited to the 3 most recent.
 
-As always, please report any bugs you find in ⁠bugs, and any ideas or feature requests you have in ⁠feedback-ideas, it is tremendously helpful. (edited)
+As always, please report any bugs you find in ⁠bugs, and any ideas or feature requests you have in ⁠feedback-ideas, it is tremendously helpful.
 
 <details>
-
   <summary><b>Changes</b></summary>
 
-The extension has received redesign to make things less cluttered, more readable, and make better use of the limited space. Let us know what you think! **General**
+The extension has received redesign to make things less cluttered, more readable, and make better use of the limited space. Let us know what you think! 
+
+**General**
 
 * Sidebar mode should now be much improved, allowing you to capture content from multiple pages.
 * Added the following options to the extension options page:

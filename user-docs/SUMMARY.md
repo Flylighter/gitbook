@@ -5,8 +5,7 @@
 * [What is Flylighter?](README.md)
 * [Why We Built This](about-flylighter/why-we-built-this.md)
 * [FAQ](about-flylighter/faq.md)
-* [What's new?](about-flylighter/whats-new.md)
-* [Changelogs](about-flylighter/changelog.md)
+* [What's New?](about-flylighter/changelog.md)
 
 ## Getting Started
 
@@ -61,4 +60,4 @@
 * [Resetting the Extension](troubleshooting/resetting-the-extension.md)
 * [How to Check for Errors](troubleshooting/how-to-check-for-errors.md)
 * [Common Issues](troubleshooting/common-issues/README.md)
-  * [No Destinations Found](troubleshooting/common-issues/no-destinations-found.md)
+* [No Destinations Found](troubleshooting/common-issues/no-destinations-found.md)

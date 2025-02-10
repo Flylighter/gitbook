@@ -64,10 +64,10 @@ Once you've chosen your database, all of the database's visible properties will 
 <figure><img src="../.gitbook/assets/CleanShot 2025-02-03 at 08.45.02.png" alt=""><figcaption><p>The Flow Editor</p></figcaption></figure>
 
 1. **Page Icon -** This is the page icon to be captured, by default it's automatically filled with the side icon. You can click it to open the data picker and choose a different icon.
-2. **Page Cover Image** - Same as the page icon, but page cover image instead.
+2. **Page Cover Image** * Same as the page icon, but page cover image instead.
 3. **Currently selected Database/Destination**
 4. **A database property -** Shows the property name, and the value to be captured.
-5. **The Data Picker & Configuration button** - Well go over this more in depth soon.
+5. **The Data Picker & Configuration button** * Well go over this more in depth soon.
 
 ### Add Web Data
 

@@ -1,0 +1,10 @@
+{
+  "GitBook Image Figure Snippet": {
+    "prefix": "gbimg",
+    "body": [
+      "<figure><img src=\"../.gitbook/assets/${1:image-name}.png\" alt=\"\" width=\"385\"><figcaption><p>${2:caption}</p></figcaption></figure>"
+    ],
+    "description": "Insert GitBook figure snippet",
+    "scope": "markdown"
+  }
+} 
