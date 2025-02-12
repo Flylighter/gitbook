@@ -2,41 +2,77 @@
 icon: sparkle
 ---
 
-# What's new?
+# What's New?
+
+## Febuary 11, 2025
+
+_02/11/2025 - v0.11.23_
+
+A patch fixed some typos and smaller bugs.
+
+<details>
+
+<summary>Changes</summary>
+
+* Added simple loading indicator to data recovery option.
+* Added some descriptions to settings options that didn’t have them.
+
+</details>
+
+<details>
+
+<summary><strong>Fixes</strong></summary>
+
+* Fixed reordering folders not persisting
+* Fixed capture history overflowing the window
+* Fixed Gmail data items showing on other google pages
+* Fixed extension locking up when you exit the tutorial modal
+* Fixed being able to back out of the add/refresh connection process.
+* Fixed a few typo
+
+</details>
+
+
 
 ## January 28, 2025
 
-<span style="color:rgb(120, 120, 120)">*01/28/2025 - v0.11.22*</span>
+_01/28/2025 - v0.11.22_
 
 Just a couple bug fixes.
 
 <details>
-  <summary><b>Fixes</b></summary>
 
-  * Fixed Flow search
-  * Potential fix for first Flows created after installing would cause a blank screen when selected.
-  
+<summary>Fixes</summary>
+
+* Fixed Flow search
+* Potential fix for first Flows created after installing would cause a blank screen when selected.
+
 **Insiders**
 
 * Fixed an issue where multiple installations of Flylighter being setup prior to first sync only the first opened would sync, and the rest would be overwritten.
+
 </details>
 
----
+***
 
 ## January 25, 2025
 
-<span style="color:rgb(120, 120, 120)">_01/25/2025 - v0.11.21_</span>
+_01/25/2025 - v0.11.21_
 
 Updated the CSS Selector tabs appearance to match the rest of the data picker & a few other fixes.
 
 <details>
-  <summary><b>Changes</b></summary>
+
+<summary>Changes</summary>
 
 * Updated the CSS selector tab to match the appearance of the rest of the data picker UI
 * Some secret stuff 😏
+
 </details>
+
 <details>
-  <summary><b>Fixes</b></summary>
+
+<summary>Fixes</summary>
 
 * Fixed long folder names causing visual issue in the create Flow modal
 * Fixed some visual issues in the icon picker
@@ -54,13 +90,14 @@ Updated the CSS Selector tabs appearance to match the rest of the data picker & 
 * Fixed multiple circumstances that would cause a user to get signed out
 * Handles some exceptions so Flylighter no longer logs false positive errors to the console
 * Fixed typing to filter not working in relation properties
+
 </details>
 
----
+***
 
 ## January 8, 2025
 
-<span style="color:rgb(120, 120, 120)">_01/08/2025 - v0.11.18_</span>
+_01/08/2025 - v0.11.18_
 
 Hey everyone! Have a very big update for you today. The changes, fixes, and improvements are too many to list, but below is some of the most notable ones. We are gearing up to launch our first suite of paid features, which we’ll have a lot more info to share very soon. While nearly everything currently in Flylighter currently will remain part of the free offering, there are two exceptions:
 
@@ -70,16 +107,17 @@ Hey everyone! Have a very big update for you today. The changes, fixes, and impr
 As always, please report any bugs you find in ⁠bugs, and any ideas or feature requests you have in ⁠feedback-ideas, it is tremendously helpful.
 
 <details>
-  <summary><b>Changes</b></summary>
 
-The extension has received redesign to make things less cluttered, more readable, and make better use of the limited space. Let us know what you think! 
+<summary>Changes</summary>
+
+The extension has received redesign to make things less cluttered, more readable, and make better use of the limited space. Let us know what you think!
 
 **General**
 
 * Sidebar mode should now be much improved, allowing you to capture content from multiple pages.
 * Added the following options to the extension options page:
-* Run Data Recovery * This is an automated repair process of your user data should you run into an problem that is not being resolved by restarting your browser
-* Re-register Context Menus * If your right-click menu entries disappear, this will bring them back
+* Run Data Recovery \* This is an automated repair process of your user data should you run into an problem that is not being resolved by restarting your browser
+* Re-register Context Menus \* If your right-click menu entries disappear, this will bring them back
 * Added a plethora of tooltips to various elements.
 * Improved opening performance
 * Improved performance of the Icon Picker.
@@ -102,16 +140,18 @@ The extension has received redesign to make things less cluttered, more readable
 * Removed the accent color option (sorry to any that enjoyed it ![☹️](https://discord.com/assets/e4e349c57577f294.svg))
 * Replaced the color slider for folder colors to be a fixed set of colors
 * Existing folder colors will be set to their closes equivalent\
-    The color math for this feature was complex, and performance heavy, and never found the result to be very nice. Perhaps I’ll come back to it down the line.
+  The color math for this feature was complex, and performance heavy, and never found the result to be very nice. Perhaps I’ll come back to it down the line.
 * Improved the appearance and smoothness of resizing animations of the main popup
 * Tightened up all animations
+
 </details>
 
 <details>
-  <summary><b>Fixes</b></summary>
+
+<summary>Fixes</summary>
 
 * Fixed numerous issues with article capture, including but not limited to:
-  - various instances of image URLs to cause failure
+  * various instances of image URLs to cause failure
   * Capturing extraneous content such as footers, headers, and links.
 * Fixed an issue causing page icons to not appear in Flow
 * Fixed renaming a Flow not “sticking” when renaming in the Flow list
@@ -123,16 +163,17 @@ The extension has received redesign to make things less cluttered, more readable
 
 </details>
 
----
+***
 
 ## November 5, 2024
 
-<span style="color:rgb(120, 120, 120)">_11/05/2024 - v0.11.17_</span>
+_11/05/2024 - v0.11.17_
 
 This update should provide a much needed performance improvement, most notably to opening times. We’ve also improved the workflow for capturing highlights, and takes many less clicks to get going.
 
 <details>
-  <summary><b>Changes</b></summary>
+
+<summary>Changes</summary>
 
 * Improved opening performance
 * Taking a highlight with either the context menu or keyboard shortcut (`Alt (Win) / Ctrl (Mac) + Shift + S`) now prompts you to choose a Flow, then immediately opens the selected Flow to the content editor
@@ -144,7 +185,8 @@ This update should provide a much needed performance improvement, most notably t
 </details>
 
 <details>
-  <summary><b>Fixes</b></summary>
+
+<summary>Fixes</summary>
 
 * Fixed capture button in the content editor having a very small click target
 * Fixed numerous typos
@@ -156,70 +198,68 @@ This update should provide a much needed performance improvement, most notably t
 
 </details>
 
----
+***
 
 ## November 1, 2024
 
-<span style="color:rgb(120, 120, 120)">_11/01/2024 - v0.11.16_</span>
+_11/01/2024 - v0.11.16_
 
 This patch brings an overhaul of light mode, and a new design for the Data Picker. We would love everyone's feedback on both of these. Light mode is still a work in progress, so you may still find some areas that are dark mode.
 
 Also in this patch is a number of other fixes and improvements found below.
 
 <details>
-  <summary><b>Changes</b></summary>
-* Overhauled light mode UI
-* Redesigned how data is organized in the Data picker
-* Updated “Add Connection” button in Settings > Connections to say “Add/Refresh Connection for clarity.
-* Added an image filter to Element Selection when applicable. (e.g. if using the Element selector to pick a page icon, it only highlights/accepts images.
-* Allowed the Data Picker to take up more space in the Content Editor
-* Added a dedicated way to minimize the Data Picker in the Content Editor
+
+<summary>Changes</summary>
+
+\* Overhauled light mode UI \* Redesigned how data is organized in the Data picker \* Updated “Add Connection” button in Settings > Connections to say “Add/Refresh Connection for clarity. \* Added an image filter to Element Selection when applicable. (e.g. if using the Element selector to pick a page icon, it only highlights/accepts images. \* Allowed the Data Picker to take up more space in the Content Editor \* Added a dedicated way to minimize the Data Picker in the Content Editor
 
 </details>
 
 <details>
-  <summary><b>Fixes</b></summary>
-* Fixed the “Remove Connection” option in Connection Settings not working.
-* Fixed an issue causing Page Capture to not display any pages when choosing a destination.
-* Fixed account settings / login not showing up. (P.S. currently there is not much need or reason to create an account unless you’d like to export your user data)
-* Fixed an issue with capturing images with the Element Selector if the image was source was from certain CDNs.
-* Fixed an issue where changing the color of select/status/multi-select properties in Notion would cause captures to fail in certain circumstances.
-* Enabled scrolling during tutorial to prevent getting stuck on small browser sizes.
+
+<summary>Fixes</summary>
+
+\* Fixed the “Remove Connection” option in Connection Settings not working. \* Fixed an issue causing Page Capture to not display any pages when choosing a destination. \* Fixed account settings / login not showing up. (P.S. currently there is not much need or reason to create an account unless you’d like to export your user data) \* Fixed an issue with capturing images with the Element Selector if the image was source was from certain CDNs. \* Fixed an issue where changing the color of select/status/multi-select properties in Notion would cause captures to fail in certain circumstances. \* Enabled scrolling during tutorial to prevent getting stuck on small browser sizes.
+
 </details>
 
----
+***
 
 ## October 25, 2024
 
-<span style="color:rgb(120, 120, 120)">_10/25/2024 - v0.11.15_</span>
+_10/25/2024 - v0.11.15_
 
 <details>
-  <summary><b>Fixes</b></summary>
-  
+
+<summary>Fixes</summary>
+
 * Fixed bug causing database destinations to not appear
+
 </details>
 
----
+***
 
 ## October 25, 2024
 
-<span style="color:rgb(120, 120, 120)">_10/25/2024 - v0.11.14_</span>
+_10/25/2024 - v0.11.14_
 
 Light mode needs some love, and we’ll give it the attention it needs soon, but in the meantime this patch fixes the most notable issues with light mode.
 
 <details>
-  <summary><b>Fixes</b></summary>
+
+<summary>Fixes</summary>
 
 * Fixed light mode visibility issues in context menus and dropdown
 * Fixed the light mode setting not persisting upon reopening Flylighter
 
 </details>
 
----
+***
 
 ## February 22, 2024
 
-<span style="color:rgb(120, 120, 120)">_02/22/2024 - v0.10.13_</span>
+_02/22/2024 - v0.10.13_
 
 Today we've got a fresh new release, bringing our public build up to version 0.10.13!
 
@@ -234,7 +274,8 @@ Check out the full changelog below if you're curious. You may also want to [chec
 For our next release, we'll be focusing on adding some **major** new features to Flylighter – including Flylighter accounts, which will lay the foundation for syncing Flows and Capture History between devices. Can't wait to share more soon!
 
 <details>
-  <summary><b>Changes</b></summary>
+
+<summary>Changes</summary>
 
 * Improved loading times
 * Added a `?` menu item for quick access to Help Docs, app version, and more
@@ -251,7 +292,8 @@ For our next release, we'll be focusing on adding some **major** new features to
 </details>
 
 <details>
-  <summary><b>Fixes</b></summary>
+
+<summary>Fixes</summary>
 
 * Fixed being unable to scroll to the bottom of the Data Picker on a property
 * Fixed number properties having unintended limitations
@@ -274,15 +316,15 @@ For our next release, we'll be focusing on adding some **major** new features to
 
 </details>
 
----
+***
 
 ## January 29, 2024
 
-<span style="color:rgb(120, 120, 120)">_01/29/2024 - v0.10.10_</span>
-Three releases today, folks! 0.10.8, 0.10.9, 0.10.10. The latter two mostly consist of hotfixes for small bugs that popped up in testing.
+_01/29/2024 - v0.10.10_ Three releases today, folks! 0.10.8, 0.10.9, 0.10.10. The latter two mostly consist of hotfixes for small bugs that popped up in testing.
 
 <details>
-  <summary><b>Changes</b></summary>
+
+<summary>Changes</summary>
 
 * Improved ability to find article / full page
 * When clicking the Flow name in the Flow Editor, the text is automatically selected
@@ -299,7 +341,8 @@ Three releases today, folks! 0.10.8, 0.10.9, 0.10.10. The latter two mostly cons
 </details>
 
 <details>
-  <summary><b>Fixes</b></summary>
+
+<summary>Fixes</summary>
 
 * Fixed article / full page capture failures due to length
 * Fixed append capture causing a crash
