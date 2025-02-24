@@ -6,22 +6,44 @@ icon: globe
 
 Blurb
 
-### YouTube Videos
+<details>
 
-* Video Title
+<summary>YouTube Videos</summary>
+
+* Video title
 * Description
-* Channel
+* Channel name
 * Channel URL
 * Video URL
-* Thumbnail
 * View count
+* Thumbnail
 * Uploaded date
 * Video Duration
 * Video ID
 * Genre
 
-### LinkedIn
+</details>
 
+<details>
 
+<summary>LinkedIn</summary>
 
-### Gmail
+* Name
+* Headline
+* Location
+* About
+* Profile picture
+* Profile banner
+
+</details>
+
+<details>
+
+<summary>Gmail</summary>
+
+* Subject line
+* Sender name
+* Email body
+
+</details>
+
