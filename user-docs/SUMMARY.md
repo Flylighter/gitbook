@@ -30,6 +30,7 @@
 * [Updating Flylighter Manually](in-depth/updating-flylighter-manually.md)
 * [Permissions](in-depth/permissions.md)
 * [Flow Settings](in-depth/flow-settings.md)
+* [Site Specific Data](in-depth/site-specific-data.md)
 
 ## Settings
 
