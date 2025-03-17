@@ -4,6 +4,93 @@ icon: sparkle
 
 # What's New?
 
+## March 17, 2025
+
+_03/17/2025 - v0.11.27_
+
+This patch is focused on a large round of bug fixes and internal improvements.
+
+<details>
+
+<summary>Changes</summary>
+
+* Sidebar can now be chosen as the default open method in Chromium browsers (Settings > Appearance)
+* You can now delete entries from Capture History
+
+</details>
+
+<details>
+
+<summary>Fixes</summary>
+
+* Fixed back button incorrectly appearing on Login screen
+* Fixed non-functional "Forgot Password" link
+* Fixed connection refresh error on Free plan that showed "You can only have one connection at a time"
+* Fixed issue where default settings popup cancels Flow creation
+* Fixed bug where multiple Flows caused Flylighter to go off bottom of screen
+* Fixed issue where clicking Destination dropdown while creating a flow crashes the app
+* Fixed critical bug where duplicating flows "pairs" them - changes on duplicate were affecting original
+* Fixed Page Capture flow creation - database list now loads properly
+* Fixed Capture history displaying off the bottom of the screen
+* Corrected outdated version number in Help window
+* Fixed non-functional Element Selector in version 0.11.26\_public
+* Fixed inability to delete auto-filled text in Content Editor
+* Fixed issue where Flylighter doesn't save the order of auto-filled blocks
+* Fixed bug where "Autofill This Value" blocks could have contents permanently changed without warning
+* Fixed issue preventing article auto-fill enablement in closed settings
+* Fixed inability to delete CSS rules once created (can be deleted in Settings > CSS Selectors)
+* Improved caching behavior
+* Fixed issue where hitting command while icon or cover pickers are open opens the database selector
+* Fixed Site Data overriding Relation properties with normal data items
+* Fixed numerous issues with saving blocks to autofill in the Content Editor
+* Fixed an issue that would periodically cause a signed in user to be signed out.
+* Fixed some animations not respecting the setting to disable animations.
+* Fixed an issue with certain CSS Selector values not displaying/displaying incorrectly
+* Fixed an issue with images causing failed capture from certain CDNs
+* Fixed an issue where choosing Flow type during new Flow creation could cause that Flow to open blank.
+* Fixed an issue causing Flows to be unnecessarily duplicated during sync.
+* When choosing destination for a flow the account selector is now always visible.
+* Fixed the ‘Autofocus Property’ setting not working.
+* Items from the Element Picker will no longer be saved as autofills.
+* Fixed tutorial popups appearing for existing users after logging in.
+* Fixed an issue causing the wrong databases to be listed when changing accounts during destination selection.
+* Fixed tutorial popups not being fully dismissed when clicking “dismiss”.
+* Fixed some instances of YouTube data not being updated on navigating to a new video
+
+</details>
+
+
+
+## Febuary 10, 2025
+
+_02/19/2025 - v0.11.26_
+
+This release focuses on improving clarity of data filling and improving onboarding. When you first create a new Flow after this update, you’ll be prompted to set your default autofills. Additionally, some tooltips will show up in the Flow Editor when you first open it.
+
+However it’s not all QoL improvements, we’ve also added an initial set of site specific data. This will be the default tab in the Data Picker when opened on a supported site. The idea behind this section is to pull more customized data from common sites. The first round includes:
+
+* Gmail
+* LinkedIn
+* YouTube videos
+
+We’ll be expanding the data available for these, and adding new sites regularly! To check out all sites available and the data you can grab, check out [Site Specific Data in the docs](https://docs.flylighter.com/in-depth/site-specific-data).
+
+<details>
+
+<summary>Changes</summary>
+
+* Added indicators of the autofill status to the header of each property
+* Simplified data picker navigation
+* Data picker now shows all data options by default, with the suggested data for a given property sorted to the top, and a new “Suggested” badge to go along with it.
+* Added the first round of site-specific data.
+* Reworked onboarding UX
+* Added a prompt on first run to set your autofill defaults.
+* Added tutorial tooltips to first Flow open.
+
+</details>
+
+
+
 ## Febuary 11, 2025
 
 _02/11/2025 - v0.11.23_
