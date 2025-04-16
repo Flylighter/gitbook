@@ -10,7 +10,7 @@ Resetting the extension does not effect synced data, so upon logging in after re
 
 ## Chrome & Chromium-based browsers
 
-Right-click the Flylighter toolbar button, ad select **Options**
+Right-click the Flylighter toolbar button, and select **Options**
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-02-06 at 08.08.34.png" alt=""><figcaption></figcaption></figure>
 
