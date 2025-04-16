@@ -7,10 +7,10 @@ icon: up-to-dotted-line
 At any time, you can export your user data from Flylighter and save it to your computer. You might want to do this on order to port your data to another browser or device, or just to back it up.
 
 {% hint style="info" %}
-**Coming Soon:** Flylighter Pro will have effortless, near-real-time Sync for your Flow settings and Capture History. When we launch Sync, you'll still be able to export your data manually on the Free Plan using the process in this article.
+**Go Hassle-Free:** When you upgrade to Flylighter Pro, you get effortless, near-real-time Sync for your Flow settings and Capture History. You can upgrade to Pro from the Settings tab of the Flylighter extension. If you choose to do, thank you for your support!
 {% endhint %}
 
-Your user data file contains everything needed to restore Flylighter to its current state in another browser or computer, including:&#x20;
+Your user data file contains everything needed to restore Flylighter to its current state in another browser or computer, including:
 
 * Flows and their settings
 * Capture History (limited to the last 10 items on the Free plan)
@@ -18,7 +18,7 @@ Your user data file contains everything needed to restore Flylighter to its curr
 
 Note that Flylighter is a **capture** tool, so we don't store the content of your captures beyond the rough details needed to maintain your Capture History (page title, URL, Notion page URL, capture time, and the Flow you used).
 
-The rest of what you captured – e.g. a full article or set of highlights * is safe in the destination you configured in your Flow. That's where it belongs; we don't want to keep or store your data!
+The rest of what you captured – e.g. a full article or set of highlights \* is safe in the destination you configured in your Flow. That's where it belongs; we don't want to keep or store your data!
 
 ## Export Your Data
 
@@ -26,4 +26,12 @@ To export your user data file, right-click the Flylighter icon in your browser's
 
 In the options screen, click **Download User Data**.
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-08-08 at 19.28.08@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-04-16 at 12.33.23@2x.png" alt=""><figcaption></figcaption></figure>
+
+## Import a Backup File
+
+From the same **Options** page, click the **Restore from Backup** button and find your downloaded `.fly` file.
+
+{% hint style="info" %}
+**Note:** You'll need to be logged into your Flylighter account in order to restore your downloaded backup file.
+{% endhint %}
