@@ -4,7 +4,9 @@ icon: arrows-rotate
 
 # Resetting the Extension
 
-Resetting the extension may be necessary to resolve issues sometimes. This will remove all user data, so be sure to download a copy of your data. For more info on downloading your user data see [Export and Import Your Data](../in-depth/export-and-import-your-data.md)
+Resetting the extension may be necessary to resolve issues sometimes. This will remove all local user data, so be sure to download a copy of your data. For more info on downloading your user data see [Export and Import Your Data](../in-depth/export-and-import-your-data.md)
+
+Resetting the extension does not effect synced data, so upon logging in after resetting, all your synced Flows, history, and settings will sync.
 
 ## Chrome & Chromium-based browsers
 
