@@ -28,7 +28,7 @@
 * [Custom CSS Selectors](in-depth/advanced-data-plugin.md)
 * [Export and Import Your Data](in-depth/export-and-import-your-data.md)
 * [Updating Flylighter Manually](in-depth/updating-flylighter-manually.md)
-* [Permissions](in-depth/permissions.md)
+* [Extension Permissions](in-depth/permissions.md)
 * [Flow Settings](in-depth/flow-settings.md)
 * [Site Specific Data](in-depth/site-specific-data.md)
 
