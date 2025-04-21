@@ -4,6 +4,110 @@ icon: sparkle
 
 # What's New?
 
+## April 21, 2025
+
+_04/21/2025 - v0.11.31_
+
+<details>
+
+<summary>Fixes &#x26; Changes</summary>
+
+* Fixed issue with restoring from user data file
+* Fixed date picker being off my one weekday
+* Resolved scrolling issues in flow list and History
+* Fixed some instances of number properties not capturing values correctly
+* Fixed extension closing after capture even if interrupted
+* Adjusted position of context menu in content editor
+* Fixed article capture for specific URLs
+* Fixed incorrect Capture History ordering (for the last time 🤞)
+* Fixed issue where blocks weren't properly deleted from content editor
+* Resolved redundant Done/Dismiss functionality
+* Fixed tab underline initialization position in new flows
+* Fixed "Name is required" error message in new flow creation dialogue
+* Fixed icon picker for Flows not closing when parent folder is closed
+* Fixed rich text pasting issues in Rich Text properties
+* Improved Settings descriptions width
+* Added link to help docs in destinations li
+
+</details>
+
+## April 7, 2025
+
+_04/7/2025 - v0.11.30_
+
+<details>
+
+<summary>Changes</summary>
+
+* Changed changelog link from Discord to Docs Site
+* Added support link to Help, Account screen, and Web Store
+* Improved UX by removing "you already captured this page" message when user deletes an item from capture histor
+
+</details>
+
+<details>
+
+<summary>Fixes</summary>
+
+* Fixed dark mode visibility issue for delete button in block context menu
+* Added proper CSS margin to status groups
+* Fixed text-input cursor placement issue
+* Resolved scrolling issues in Capture History
+* Fixed critical security issue with user data restore
+* Fixed issues with capturing Notion pages
+* Resolved issue with article capture not capturing images from specific URLs
+* Fixed Color Mode selector offset in settings
+* Added padding to last Capture History item
+* Fixed Keyboard Shortcuts not applying when trying to set with modifiers held
+
+</details>
+
+## April 2, 2025
+
+_04/2/2025 - v0.11.29_
+
+This release brings public availability of Sync with our Pro and Insiders plan. More on this in #announcements shortly.
+
+Persistent highlights is now available to everyone. Persistent highlights means that wherever you take a highlight on the web, it will always be there, across refreshes, browser sessions, and even computers (with sync).
+
+We also redesigned how the extensions popup is rendered under the hood, allowing context menus to expand outside the normal popup, and enabling the moving of the extension popup around on the page!
+
+<details>
+
+<summary>Changes</summary>
+
+* Added cross-device/browser sync (Pro)
+
+- Persistent highlights is now available on the free plan
+- The toolbar button now has an indicator if a page has been capture previously
+- You can now move the extension popup around the page by long-pressing the header/tab bar at the top
+- The date-picker has undergone a partial redesign and certain data can be autofilled there.
+- Backspace in text inputs no longer unfocuses the input
+- Picking a select/multi-select now clears the search query and keeps focus on the search input
+- Removed the old onboarding
+- Adjusted padding in capture history list
+- Added help menu
+
+</details>
+
+<details>
+
+<summary>Fixes</summary>
+
+* Fixed account info not appearing in account settings.
+* Fixed ‘Download User Data’ button not working correctly in account settings
+* Fixed numerous issues with new account creation
+* Fixed incorrect password when logging in causing UI to go blank
+* Fixed being unable to logout
+* Fixed manual refresh in Flows not working
+* Fixed new sidebar setting option not appearing with sync enabled
+* Fixed horizontal radio elements appearing misaligned
+* Prevented enabling side panel in unsupported browsers which could cause a hard lock
+* Fixed some more issues with the popup tutorials
+* Fixed context menus going below the visible area
+
+</details>
+
 ## March 17, 2025
 
 _03/17/2025 - v0.11.27_
