@@ -23,6 +23,10 @@ Note that changing this setting will prevent certain features from working prope
 * Sidebar mode
 * Persistent highlights
 
+{% hint style="warning" %}
+**Important:** In addition to the above limitations, changing Flylighter's access setting may cause "Failed to fetch" errors on certain websites that contain externally-hosted content. If Flylighter doesn't have permission to access content (e.g. images) hosted on another site, it won't be able to capture it.
+{% endhint %}
+
 These features require an active background script that loads at the same time as the current page's content.
 
 **However, Flylighter's core functionality will continue to work.** You'll still be able to open the extension, run flows normally, and even capture highlights and elements from the page once Flylighter is open.
