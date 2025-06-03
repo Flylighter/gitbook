@@ -4,33 +4,27 @@ icon: list-check
 
 # Extension Permissions
 
-Flylighter has access to all sites by default. This access helps you capture content and use keyboard shortcuts without friction.
+Flylighter has access to all sites by default. If you'd like to restrict Flylighter's permissions, you can do so using your browser's Site Access tools, which are available on all extensions.&#x20;
 
-If you'd like to restrict Flylighter's permissions, you can do so using your browser's Site Access tools, which are available on all extensions. To access them:
+However, **Flylighter needs to be able to talk to the Notion API in order to capture data to Notion.** This means that choossing the "When You Click the Extension" option from the Site Access menu will cause Flylighter stop working.
 
-1. Right-click the Flylighter icon in your toolbar, or hit the  ••• button next to it in your extensions list.
-2. Hover over the **This Can Read and Change Site Data** option.
-3. Choose the permission setting you want.
+Fortunately, there's a way around this!
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-04-16 at 13.11.31@2x.png" alt=""><figcaption></figcaption></figure>
+First, **right-click** Flylighter and head to **Manage Extension.**
 
-Choose **When You Click the Extension** if you'd like to prevent Flylighter from accessing anything until you explicitly click the extension icon.
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-03 at 12.57.10@2x.png" alt=""><figcaption></figcaption></figure>
 
-Note that changing this setting will prevent certain features from working properly, including:
+Under **Site Access:**
 
-* Keyboard shortcuts to open Flylighter/Flows
-* Context menu shortcuts when Flylighter is closed
-* Sidebar mode
-* Persistent highlights
+1. Choose **On Specific Sites.**
+2. Add `https://api.notion.com` to the list.
 
-{% hint style="warning" %}
-**Important:** In addition to the above limitations, changing Flylighter's access setting may cause "Failed to fetch" errors on certain websites that contain externally-hosted content. If Flylighter doesn't have permission to access content (e.g. images) hosted on another site, it won't be able to capture it.
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-03 at 12.58.53@2x.png" alt=""><figcaption></figcaption></figure>
+
+Once you've done this, Flylighter will be able to make requests to the Notion API in order to capture pages from the web for you.
+
+{% hint style="info" %}
+Flylighter uses the official Notion API to make captures, unlike some other web clippers which use unofficial, unapproved methods. This is why Flylighter supports these site access settings.
 {% endhint %}
 
-These features require an active background script that loads at the same time as the current page's content.
-
-**However, Flylighter's core functionality will continue to work.** You'll still be able to open the extension, run flows normally, and even capture highlights and elements from the page once Flylighter is open.
-
-We can continue to offer this core functionality because **Flylighter uses the official Notion API for captures.**&#x20;
-
-Some other third-party web clippers use unofficial, unapproved methods for capturing data, which depend on you being logged into Notion within your active browser. They need persistent access to your logged-in Notion account, which means you can't restrict extension permissions without fully breaking the extension. This is one of the key reasons we decided to build Flylighter in the first place.
+All sites not listed in the Specific Sites list will function as **"When You Click the Extension"** sites – but Flylighter will also retain the ability to communicate with the Notion API.
