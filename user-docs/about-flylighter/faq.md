@@ -49,26 +49,13 @@ While this does allow them to get around certain limitations (the Notion API doe
 Yes. Flylighter runs locally in your browser, and currently only sends data outside your browser's local storage in the following cases:
 
 * When sending your capture data to your desired Destination (e.g. your Notion account)
-* Telemetry (anonymized bugs, error logs, and similar usage data) – you can disable this in Settings → Privacy
+* Telemetry (anonymized bugs, error logs, and similar usage data) – you can disable this in Settings → Privacy.
 * If you're subscribed to our Pro or Insider plans, our Sync feature will sync your flows, capture history, and settings across your devices and browsers.
 
-These details will be encrypted in transit and at rest.
+User data synced on the Pro and Insider plans is stored securely in [Supabase](https://supabase.com/).
 
 Additionally, Flylighter uses the [official Notion API](https://developers.notion.com/). As mentioned above, some other web clippers not developed by Notion use unofficial means to access your Notion account, like using your **user session token** in your browser.
 
 ## Can I limit Flylighter's access in my browser?
 
-Yes. By default, Flylighter has access to all open sites within your current browser session. This allows you to open the extension using a keyboard shortcut, and in the future will allow you to do things like saving all open tabs to a Notion page.
-
-However, you can change **Site Access** settings to limit Flylighter's access to either:
-
-* The specfic domain you're currently on
-* Require you to click the extension each time
-
-To do this, right-click the Flylighter icon in your extension toolbar, find **"This Can Read and Change Site Data"**, and choose the setting you prefer.
-
-<figure><img src="../.gitbook/assets/CleanShot 2024-02-11 at 09.58.13@2x.jpg" alt=""><figcaption></figcaption></figure>
-
-Note that you can change this setting for any browser extension, not just Flylighter!
-
-If you do change this setting in Flylighter, certain features may not work until you open the extension. For example, if you choose the "When You Click the Extension" setting, you won't be able to open flows with a configured keyboard shortcut while the extension is closed.
+Yes. See [permissions.md](../in-depth/permissions.md "mention") for more details!
