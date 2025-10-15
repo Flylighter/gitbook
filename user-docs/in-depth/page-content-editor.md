@@ -4,28 +4,64 @@ icon: file-pen
 
 # Page Content Editor
 
+Flylighter's **Content Editor** lets you capture nearly anything to the body of a Notion page. It gives you a **block editor** similar to the one you'll find in Notion itself.
+
+Using the Content Editor, you can capture:
+
+* Full articles
+* Text highlights
+* Special site data from sites like LinkedIn, X/Twitter, YouTube, and Reddit
+* Images on the page
+* Images from your clipboard or file system (dragged into the Content Editor)
+* Screenshots
+* Manually-typed notes
+* YouTube notes with clickable timestamps
+* HTML elements (e.g. tables)
+* Site metadata from the Data Picker
+
+You can access the Content Editor in any Flow by going to the **Content** tab.
+
+<figure><img src="../.gitbook/assets/62667.jpeg" alt=""><figcaption></figcaption></figure>
+
+With Flylighter open, you can fill up the Content Editor with any number of blocks, using the different methods listed above.
+
+For example, on this article I've:
+
+1. Captured a highlight (Select text → Right-Click → Capture Highlight)
+2. Created a normal text block by typing
+3. Captured the on-page image (Right-Click image → Capture Image)
+
+<figure><img src="../.gitbook/assets/25462.jpeg" alt=""><figcaption></figcaption></figure>
+
+### Capturing Full Articles
+
+If you want to capture the full article on a page, you don't need to select the full text as a highlight.
+
+Instead, find the **Article** data type in the Data Picker module beneath the Content Editor.
+
+Click it, and you'll see Article come in as a block. Once you hit Capture, Flylighter will parse the entire article and capture it to Notion.
+
 {% hint style="info" %}
-_This page is under construction, and may have screenshots from a previous version of our UI._
+**Note:** You can still add additional blocks before or after the Article block!
 {% endhint %}
 
-The page content editor is used to add data to capture to the page itself.
+<figure><img src="../.gitbook/assets/58025.jpeg" alt=""><figcaption></figcaption></figure>
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Frame 80.png" alt=""><figcaption><p>The page content editor.</p></figcaption></figure> <figure><img src="../.gitbook/assets/Frame 81.png" alt=""><figcaption><p>The page content editor in expanded view.</p></figcaption></figure></div>
+### Autofill Content Editor Blocks
 
-## Adding Data
+What if you want to **autofill** data in the Content Editor every time you run a Flow.
 
-There are multiple ways of adding data for capture to the page.
+For instance, what if you always want to capture the Article of the page?
 
-### Data Items
+To do this, you can set any block you place in the Content Editor to **autofill.** To do this:
 
-To add data in the page content enter, simply select from the Data Picker. Content in the editor can be drag and dropped to reorder it. Hitting the save button on the bottom right of a Data Item will ensure this Flow always captures that data, if available.
+1. Click `⋮⋮` to the left of any existing block
+2. Choose one of the autofill options
 
-### Custom Data
+For dynamic data types from the Data Picker, such as the Article data type, you'll likely want to choose **Autofill Data Type.** This treats the block as a _variable._ In the case of Article, it'll dynamically parse and capture the article on the page.
 
-Your own notes, images, and links can be added using the **Add** dropdown in the top left, or by clicking in an empty area of the editor to start typing.
+<figure><img src="../.gitbook/assets/85195.jpeg" alt=""><figcaption></figcaption></figure>
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Frame 82.png" alt=""><figcaption><p>Adding custom input items</p></figcaption></figure> <figure><img src="../.gitbook/assets/Frame 83.png" alt=""><figcaption><p>Editor while entering custom text</p></figcaption></figure></div>
+For other use cases, you may want to choose **Autofill This Value.** This locks in the _specific value of the block right now._&#x20;
 
-Additionally, if you are entering custom note while on a YouTube video, a linked timestamp will be included with the note. This behavior can be turned off in the **Advanced** dropdown in the top right. The format for which this is captured can be set in the main extension settings under **Notion**
-
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Frame 84.png" alt=""><figcaption><p>Custom notes with YouTube timestamps</p></figcaption></figure> <figure><img src="../.gitbook/assets/Frame 85.png" alt=""><figcaption><p>Timestamp format options</p></figcaption></figure></div>
+This is usually most useful for manually-typed text. For example, you might create a Flow that has some freewriting prompts in the Content Editor; these can be locked in using the Autofill This Value option.
