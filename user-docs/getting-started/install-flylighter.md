@@ -15,11 +15,13 @@ Flylighter is compatible with any Chromium or Firefox-based web browser, includi
 * Microsoft Edge (Thomas's pick)
 * Zen (Eli's pick)
 * Arc
+* Dia
 * Brave
+* Vivaldi
 * Opera
 
 {% hint style="info" %}
-**Note:** Firefox extensions don't have as many capabilities as Chrome extensions do, so certain features available in Chrome-based browsers won't be available on Firefox or Zen.
+**Note:** Firefox extensions don't have as many capabilities as Chrome extensions do, so certain features available in Chrome-based browsers won't be available on Firefox or Zen. The main limitation is that Firefox/Zen only offer Sidebar mode.
 {% endhint %}
 
 ## Install the Extension
