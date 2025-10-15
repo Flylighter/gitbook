@@ -34,8 +34,14 @@ Flylighter will not open on the Chrome Web Store, nor on Chrome settings pages. 
 
 Once you've installed Flylighter, you may want to also **pin** it in your browser's toolbar by clicking the puzzle piece icon, then clicking the icon next to the Flylighter entry:
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-01-30 at 08.42.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/78452.jpeg" alt=""><figcaption></figcaption></figure>
 
-When you first open Flylighter, you will be presented with the following popup. You can go ahead and do the interactive onboarding tutorial by clicking "Build Your First Flow", or you can choose to skip the tutorial and follow along here in the docs.
+When you first open Flylighter, you'll be prompted to log in or sign up.
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-01-30 at 08.36.59 (1).png" alt=""><figcaption></figcaption></figure>
+If this is your first time using Flylighter, click **Sign Up** to create a free Flylighter account.
+
+_If you're using our Free plan, your Flylighter account is only used to make the process of downloading and restoring your user data more secure. If you choose to later upgrade to our_ [_Pro plan_](https://flylighter.com/pricing/)_, it'll also be used to sync your flows and capture history across your devices._
+
+<figure><img src="../.gitbook/assets/18655.jpeg" alt=""><figcaption></figcaption></figure>
+
+Once you've signed in, it's time to [authenticate Flylighter with your Notion workspace](authenticating-notion.md) so you can start capturing data to Notion!
