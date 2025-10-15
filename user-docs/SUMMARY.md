@@ -17,6 +17,7 @@
 * [Auto-Filling Flows](getting-started/auto-filling-flows.md)
 * [Organizing Flows](getting-started/organizing-flows.md)
 * [Managing Accounts](getting-started/managing-accounts.md)
+* [Sidebar Mode](getting-started/sidebar-mode.md)
 * [Capture History](getting-started/capture-history.md)
 
 ## In Depth
