@@ -4,35 +4,38 @@ icon: bolt
 
 # Set Up Instant Capture
 
-The Instant Capture setting allows you to execute Flows in two clicks...
+The more you get going with Flylighter, the faster it gets at capturing the information you need. After you have your favorite **Flows** set up with [autofilling properties](auto-filling-flows.md), you can make things even faster with **Instant Capture**.
 
-1. Open Flylighter
-2. Click the Flow
+**Instant Capture** is exactly what it sounds like: instead of needing to open up Flylighter, select your **Flow**, and then fill things out before capturing a page to Notion, you'll be able to simply choose your **Flow** and let Flylighter handle the rest.
 
-...or in one keyboard shortcut. 
+Specifically, this will get you down to either two mouse clicks (open Flylighter → select **Flow**) or _one_ [**Keyboard Shortcut**](../settings/shortcuts.md).
 
-*Visit [Keyboard Shortcuts](../settings/shortcuts.md) for more info on setting keyboard shortcuts.*
+This is _perfect_ for things like a _Read Later_ **Flow**, where the entire point is that you don't have time to process this information right now.
 
+### Enable Instant Capture for a Flow
 
-## Enabling Instant Capture
-You can enable Instant Capture on any Flow by going to the **Settings** tab in the Flow Editor, and toggling the **Instant Capture** switch.
+There are two ways to enable **Instant Capture** for any given **Flow**.
 
-<figure><img src="../.gitbook/assets/enable-instant-capture-1.png" alt=""><figcaption></figcaption></figure>
+#### In a Flow's Settings Tab
 
-Alternatively, you can right-click any Flow in the main Flow list and click **Enable Instant Capture.**
+Click on the **Settings** tab for any **Flow** and you'll find a toggle right near the top for changing the **Autofill** setting.
 
-Flow that have Instant Capture enabled will have a small ⚡️ icon to the right of their name.
+<figure><img src="../.gitbook/assets/settings tab instant capture.png" alt="a screenshot of the Instant Capture toggle in the Settings tab of a Flow"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/enable-instant-capture-2.png" alt=""><figcaption></figcaption></figure>
+#### Via the Right-Click Menu in the Flow List
 
-When Instant Capture is enabled, you can open the Flow and edit it normally by selecting **Edit Flow** from the context menu.
+If you'd rather save a click, you can right-click any **Flow** from the main Flylighter window and click **Enable Instant Capture** instead.
 
-<figure><img src="../.gitbook/assets/enable-instant-capture-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/right-click menu instant capture.png" alt="a screenshot of the Enable Instant Capture item in the right-click menu of a Flow"><figcaption></figcaption></figure>
 
-## Set a Keyboard Shortcut
+In either case, afterward, you'll see a ⚡️ symbol next to the Flow's name.
 
-Two clicks still too slow for you?
+<figure><img src="../.gitbook/assets/instant capture icon.png" alt="a screenshot showing the lightning-bolt icon, indicating that Instant Capture is enabled, next to a Flow&#x27;s name in the Flows list"><figcaption></figcaption></figure>
 
-In the Settings under the [Keyboard Shortcuts](../settings/shortcuts.md) tab, you can set a keyboard shortcut for any Flow.
+### Set Up a Keyboard Shortcut
 
-Combined with Instant Capture, this will let you instantly capture any web page to your Flow using your keyboard shortcut!
+If you want to hit maximum capture speed, you might want to set up a [**Keyboard Shortcut**](../settings/shortcuts.md).
+
+When you do this, it's on a per-**Flow** basis—for example, you might set up a _Read Later_ **Flow** with ^+Shift+R, but an _Inspiration_ **Flow** with ^+Shift+I. You can set up as many **Instant Capture** **Flows** as you can find new keyboard combinations for!
+
+<figure><img src="../.gitbook/assets/keyboard shortcuts.png" alt="a screenshot showing two Flows in the Flows list with Keyboard Shortcuts set"><figcaption></figcaption></figure>
