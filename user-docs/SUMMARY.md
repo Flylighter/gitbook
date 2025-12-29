@@ -64,3 +64,7 @@
 * [Common Issues](troubleshooting/common-issues/README.md)
 * [Running Data Recovery](troubleshooting/running-data-recovery.md)
 * [No Destinations Found](troubleshooting/common-issues/no-destinations-found.md)
+
+## Browsers
+
+* [Zen](browsers/zen.md)
