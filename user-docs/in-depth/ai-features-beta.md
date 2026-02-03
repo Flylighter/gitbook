@@ -14,7 +14,7 @@ Flylighter's AI features allow you to generate and capture summaries, list of ke
 
 Additionally, you can use Flylighter's AI plugin within a Flow's **Properties** tab to intelligently select the best data for Notion database properties.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ## Enabling AI Features
 
@@ -33,7 +33,7 @@ This has several benefits:
 
 To get started, obtain an API key from one of our supported providers, then save it that provider's section within **Settings → AI Tools.**
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 We currently support the following providers:
 
