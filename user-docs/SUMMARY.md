@@ -54,6 +54,7 @@
 
 * [Instant Inbox Capture](use-cases/instant-inbox-capture.md)
 * [Save Blog Posts to Notion](use-cases/save-blog-posts-to-notion.md)
+* [Build a Thumbnail Collection](use-cases/build-a-thumbnail-collection.md)
 * [Take Notes on YouTube Videos](use-cases/take-notes-on-youtube-videos.md)
 * [Save Recipes to Notion](use-cases/save-recipes-to-notion.md)
 * [Highlight & Annotate Articles](use-cases/highlight-and-annotate-articles.md)

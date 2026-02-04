@@ -30,7 +30,7 @@ Individual folders can be sorted in four ways: A**lphabetical**, **Date Created*
 
 Folders and Flows can be reordered or moved between folders by dragging and dropping. Drag and drop will automatically set a Folders sort to **Manual.**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Drag and drop to reorganize Flows.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Drag and drop to reorganize Flows.</p></figcaption></figure>
 
 More options for Flows and folders can be accessed by right clicking them, or by clicking the 3-dot handle next to them. Here you can do things like add to favorites, rename, and delete them.
 

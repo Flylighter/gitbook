@@ -20,7 +20,7 @@ To pin Flylighter to the Zen toolbar, do the following:
 2. Right-click the Flylighter icon.
 3. Click Pin to Toolbar.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After you've done this, you should see the Flylighter icon next to your Search bar.
 

@@ -8,7 +8,7 @@ Running data recovery can help resolve many issues.
 
 1. Open the extensions options page
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click "Run data recovery"
 
