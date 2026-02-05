@@ -33,6 +33,7 @@
 * [Flow Settings](in-depth/flow-settings.md)
 * [Site Specific Data](in-depth/site-specific-data.md)
 * [AI Features (Beta)](in-depth/ai-features-beta.md)
+* [Bulk Capture (Beta)](in-depth/bulk-capture-beta.md)
 
 ## Settings
 
